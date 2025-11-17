@@ -16,6 +16,7 @@ Communication and quality assurance are baked into the rhythm and tooling: daily
 - [OctoAcme Execution and Tracking](octoacme-execution-and-tracking.md)
 - [OctoAcme Risks and Communication](octoacme-risks-and-communication.md)
 - [OctoAcme Release and Deployment](octoacme-release-and-deployment.md)
+- [Release Checklist and Handoff Template](release-checklist.md)
 - [OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](octoacme-roles-and-personas.md)
 
